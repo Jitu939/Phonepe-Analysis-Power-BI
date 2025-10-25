@@ -2,7 +2,7 @@
 
 This **PhonePe Dashboard** provides an analytical overview of user transactions, revenue distribution, and engagement trends across various cities, devices, and user segments.
 
-## 🔍 Overview
+## Overview
 
 | Metric | Value |
 |--------|-------|
@@ -12,31 +12,31 @@ This **PhonePe Dashboard** provides an analytical overview of user transactions,
 
 ---
 
-## 💡 Insights
+## Insights
 
-### 👥 Revenue by Gender
+### Revenue by Gender
 - **Male:** ₹7.6K  
 - **Female:** ₹7.3K  
 - **Other:** ₹6.8K  
 
-### 🏙️ Revenue by City
+### Revenue by City
 Top contributing cities:
 - **Chennai** – 16.29%  
 - **Hyderabad** – 15.00%  
 - **Pune** – 14.64%  
 - **Mumbai**, **Ahmedabad**, **Delhi**, **Kolkata** also show strong performance.
 
-### 📅 Revenue by Day of the Week
+### Revenue by Day of the Week
 - **Highest Revenue:** Monday (~₹4.0K)  
 - **Lowest Revenue:** Friday (~₹2.3K)
 
-### 👤 Revenue by User Type
+### Revenue by User Type
 | User Type | Revenue | Percentage |
 |------------|----------|-------------|
 | **New Users** | ₹10.47K | 48.33% |
 | **Returning Users** | ₹11.21K | 51.67% |
 
-### 📱 Device Usage
+### Device Usage
 Users accessed the app from:
 - **Mobile** (majority)
 - **Desktop**
@@ -44,7 +44,7 @@ Users accessed the app from:
 
 ---
 
-## 📋 Data Table Details
+## Data Table Details
 The data table in the dashboard includes:
 - **User ID**
 - **Transaction ID**
@@ -58,7 +58,7 @@ The data table in the dashboard includes:
 
 ---
 
-## 🛠️ Built With
+## Built With
 - **Tool:** Power BI  
 - **Dataset:** Simulated PhonePe transactional data  
 - **Visual Elements:** Bar charts, line charts, pie charts, and data tables 
